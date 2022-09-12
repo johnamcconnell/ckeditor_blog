@@ -103,7 +103,11 @@ Editor.defaultConfig = {
 		items: [
 			'bold',
 			'italic',
-			'link'
+			'heading,
+			'link',
+			'fontsize',
+			'fontfamily',
+			'fontcolor'
 		]
 	},
 	language: 'en',
